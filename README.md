@@ -4,9 +4,6 @@
 
 <h3 align="center">A student from India, learning Various coding skills.</h3>
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik9871&label=Profile%20views&color=0e75b6&style=flat" alt="swastik9871" /> </p>
 
