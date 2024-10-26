@@ -35,9 +35,9 @@
 
 <a href="https://twitter.com/swastik410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swastik410" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/swastik raghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swastik raghav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Swastik raghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swastik raghav" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/c/swastikcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swastikcode" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@Swastikcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swastikcode" height="30" width="40" /></a>
 
 </p>
 
