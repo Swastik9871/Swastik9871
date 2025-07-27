@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact **I think I am good in Problem solving**
+- ⚡ Fun fact **I am looking forward for Game development**
 
 
 
@@ -41,8 +41,5 @@
 
 </p>
 
-
-
-<h3 align="left">Languages and Tools:</h3>
 
 
